@@ -104,9 +104,7 @@ def main():
     r"""Main function to run the OWL system with an example question."""
     # Example research question
     question = (
-        "What was the volume in m^3 of the fish bag that was calculated in "
-        "the University of Leicester paper `Can Hiccup Supply Enough Fish "
-        "to Maintain a Dragon's Diet?`"
+        "查询今日天气，并将近10天天气绘制成变化曲线"
     )
     
     # Construct and run the society
